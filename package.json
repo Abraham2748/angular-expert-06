@@ -8,6 +8,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test --watch=false --browsers=ChromeHeadless",
     "cy:open": "cypress open",
+    "cy:run": "cypress run",
     "husky:init": "husky init",
     "prepare": "husky"
   },
